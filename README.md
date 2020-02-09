@@ -1,2 +1,2 @@
 # git-revision
-git revision purpose
+segit revision purpo
